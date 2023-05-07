@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi here 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=codevka&show_icons=true&hide_title=true&hide_border=true&theme=nord" />
-<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevka&layout=compact&show_icons=true&hide_border=true&theme=nord" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=codevka&show_icons=true&hide_title=true&hide_border=true&theme=solarized-light" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Codevka&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
